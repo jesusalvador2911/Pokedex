@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+
+    <string name="hp_format">Hp: %d</string>
+    <string name="attack_format">Attack: %d</string>
+    <string name="defense_format">Defense: %d</string>
+    <string name="speed_format">Speed: %d</string>
+    <string name="pokedex">Pokedex</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
